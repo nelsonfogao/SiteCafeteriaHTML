@@ -1,0 +1,3 @@
+# SiteCafeteriaHTML
+
+![image](siteCafeteria.png)
