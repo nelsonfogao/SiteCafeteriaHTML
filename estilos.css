@@ -1,0 +1,67 @@
+.navbar {
+  color: white;
+  background-color: brown;
+  font-size: 30px;
+  text-decoration: none;
+  height: 50px;
+  vertical-align: middle;
+}
+
+.header {
+  color: olive;
+  font-size: 2em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Shadows Into Light";
+}
+.body {
+  background-color: burlywood;
+}
+.blackLine {
+  background-color: black;
+  height: 1px;
+}
+
+.tabela {
+  border: 1px solid;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+input {
+  width: 300px;
+}
+#comentarios {
+  height: 100px;
+}
+
+ul li {
+  display: inline-block;
+  padding-right: 4px;
+}
+h1 {
+  visibility: hidden;
+}
+#container {
+  text-align: center;
+}
+
+.flex-pai {
+  display: flex;
+}
+
+.flex {
+  flex: 1;
+}
+.tabelaDiv {
+  margin-left: 35%;
+}
+#contato {
+  justify-self: center;
+  background-color: brown;
+}
+.mapaGoogle {
+  width: 600px;
+  height: 450px;
+  border: 0;
+}
